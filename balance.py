@@ -52,4 +52,3 @@ def checkBalance(string):
 string = input('Input string:')
 
 print (checkBalance(string))
-print ("версия 01")
